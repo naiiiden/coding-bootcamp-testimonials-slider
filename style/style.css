@@ -74,7 +74,7 @@ img {
     color: hsl(240deg, 38%, 20%);
   }
   main .slide .text_container .job {
-    color: hsl(240deg, 18%, 77%);
+    color: #545478;
   }
   main .slide .quote {
     width: 3rem;
@@ -160,7 +160,7 @@ img {
     color: hsl(240deg, 38%, 20%);
   }
   main .text_container .job {
-    color: hsl(240deg, 18%, 77%);
+    color: #545478;
   }
   main .text_container .quote {
     width: 7.5rem;
